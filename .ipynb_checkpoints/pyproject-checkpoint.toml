@@ -8,3 +8,4 @@ version = "0.1.0"
 description = "My first package"
 license = {file = "LICENSE.txt"}
 dependencies = "numpy"
+optional-dependencies = "panda"
